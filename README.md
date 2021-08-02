@@ -1,2 +1,2 @@
 # AlgorithmsJS
-Exercicios em JS 
+Exercicios em JS 2019
